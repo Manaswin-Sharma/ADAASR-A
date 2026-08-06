@@ -4,7 +4,7 @@ Its a self guiding rocket capable of fixing its own PITCH, YAW and even ROLL bec
 this rocket also has a live telemtry station and is also equipped with smart recovery so this rocket is almost a very accurate replica of real SPACE - X rockets and can even fly 
 
 #PIN MAPPING
-![THE CURCUIT DIAGRAM SIMPLIFIED SINCE THE APP USED TO MAKE THE DIAGRAM DIDNT CONTAIN THE CHIPS ITS MISSING A HC 05 BLUETOOTH MODULE](CURCUITDIAGRAM.PNG)
+![THE CURCUIT DIAGRAM SIMPLIFIED SINCE THE APP USED TO MAKE THE DIAGRAM DIDNT CONTAIN THE CHIPS ITS MISSING A HC 05 BLUETOOTH MODULE](CURCUITDIAGRAM.png)
 
 IN THIS DIAGRAM THE MAINBOARD USED IS A ARDUINO NANO 
 
